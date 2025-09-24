@@ -1,0 +1,13 @@
+{
+  "name": "hc-virtual-assistant-mobile",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start"
+  },
+  "dependencies": {
+    "expo": "~48.0.0",
+    "react": "18.2.0",
+    "react-native": "0.71.8"
+  }
+}
